@@ -1,0 +1,8 @@
+{
+  "name": "zenonian",
+  "private": true,
+  "workspaces": [
+    "landing"
+  ],
+  "packageManager": "yarn@4.0.2"
+}
